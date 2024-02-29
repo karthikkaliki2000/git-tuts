@@ -3,7 +3,8 @@ public class Example {
         System.out.println("Java file");
         fun();
     }
+
     public void fun(String name){
-       System.out.println("Hi "+name)
+       System.out.println("Hi "+name);
     }
 }
